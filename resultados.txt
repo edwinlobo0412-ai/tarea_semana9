@@ -1,5 +1,5 @@
-Laptop - Q12000.0 - Q13800.0
-Mouse - Q150.0 - Q172.5
-Teclado - Q350.0 - Q402.5
-Monitor - Q5000.0 - Q5750.0
-USB - Q80.0 - Q92.0
+Laptop     - Q12000.00 - Q13800.00
+Mouse      - Q150.00 - Q172.50
+Teclado    - Q350.00 - Q402.50
+Monitor    - Q5000.00 - Q5750.00
+USB        - Q80.00 - Q92.00
